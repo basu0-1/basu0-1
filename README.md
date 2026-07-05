@@ -8,11 +8,16 @@
 - Computer Vision
 - Data Analytics
 
-## 🚀 Currently Working On
+## 🚀 Featured Projects
 
-- CareerCompass AI
-- AEGIS-X
-- Portfolio Website
+### CareerCompass AI
+AI-powered career guidance platform with ATS, Resume Analysis, Interview Preparation, and Job Recommendation.
+
+### AEGIS-X
+Real-time AI surveillance and anomaly detection system.
+
+### Portfolio Website
+Responsive personal portfolio built using HTML, CSS, and JavaScript.
 
 ![Snake animation](https://github.com/basu0-1/basu0-1/blob/output/github-contribution-grid-snake.svg)
 
@@ -37,10 +42,5 @@
 - LLMs
 - MLOps
 - FastAPI
-
-## 📫 Connect With Me
-
-- LinkedIn
-- Email
 
 ⭐ "Building AI solutions for real-world problems."
