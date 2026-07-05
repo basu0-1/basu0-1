@@ -29,6 +29,19 @@
 - MLOps
 - FastAPI
 
+## 🖥️ Contribution Log
+
+```bash
+Status      : Active
+Learning    : AI • ML • Computer Vision
+Building    : CareerCompass AI • AEGIS-X
+Commit Mode : ON 🚀
+```
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=github-dark&hide_border=true"/>
+</p>
+
 ![](https://komarev.com/ghpvc/?username=basu0-1&style=for-the-badge&color=blue)
 
 ⭐ "Building AI solutions for real-world problems."
