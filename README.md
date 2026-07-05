@@ -16,8 +16,6 @@ AI-powered career guidance platform with ATS, Resume Analysis, Interview Prepara
 ### AEGIS-X
 Real-time AI surveillance and anomaly detection system.
 
-![Snake animation](https://github.com/basu0-1/basu0-1/blob/output/github-contribution-grid-snake.svg)
-
 ## 🛠️ Tech Stack
 
 - Python
@@ -39,5 +37,7 @@ Real-time AI surveillance and anomaly detection system.
 - LLMs
 - MLOps
 - FastAPI
+
+![](https://komarev.com/ghpvc/?username=basu0-1&style=for-the-badge&color=blue)
 
 ⭐ "Building AI solutions for real-world problems."
