@@ -16,9 +16,6 @@ AI-powered career guidance platform with ATS, Resume Analysis, Interview Prepara
 ### AEGIS-X
 Real-time AI surveillance and anomaly detection system.
 
-### Portfolio Website
-Responsive personal portfolio built using HTML, CSS, and JavaScript.
-
 ![Snake animation](https://github.com/basu0-1/basu0-1/blob/output/github-contribution-grid-snake.svg)
 
 ## 🛠️ Tech Stack
