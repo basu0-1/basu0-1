@@ -29,17 +29,23 @@
 - MLOps
 - FastAPI
 
-<h1 align="center">
-⚡⚡ CONTRIBUTION HEATMAP ⚡⚡
-</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=tokyo-night&hide_border=true&radius=16"/>
-</p>
+# 📊 Developer Dashboard
 
-<p align="center">
-✨ <b>From ideas to commits, every contribution tells a story.</b>
-</p>
+🎯 AI & Data Science Student • 🤖 Machine Learning • 🚀 Project Builder
+
+---
+
+### 📈 Contribution Graph
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=tokyo-night&hide_border=true&area=true"/>
+
+---
+
+> 💡 *Consistency beats intensity. Every commit is progress.*
+
+</div>
 
 ![](https://komarev.com/ghpvc/?username=basu0-1&style=for-the-badge&color=blue)
 
