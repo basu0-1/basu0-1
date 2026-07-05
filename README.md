@@ -29,14 +29,14 @@
 - MLOps
 - FastAPI
 
-<h2 align="center">📈 My Contribution Journey</h2>
+## 📈 My Contribution Journey
 
 <p align="center">
-  <i>Every green square represents a step toward becoming a better developer.</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://ghchart.rshah.org/basu0-1" width="90%"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=basu0-1&style=for-the-badge&color=blue)
