@@ -14,8 +14,8 @@
 - AEGIS-X
 - Portfolio Website
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basu0-1&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Ybasu0-1&theme=tokyonight)
+![Snake animation](https://github.com/basu0-1/basu0-1/blob/output/github-contribution-grid-snake.svg)
+
 ## 🛠️ Tech Stack
 
 - Python
