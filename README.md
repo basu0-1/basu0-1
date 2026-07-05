@@ -29,14 +29,16 @@
 - MLOps
 - FastAPI
 
-<h2 align="center">⚡ Code Never Sleeps ⚡</h2>
+## 🖥️ Contribution Log
 
+```bash
+Status      : Active
+Learning    : AI • ML • Computer Vision
+Building    : CareerCompass AI • AEGIS-X
+Commit Mode : ON 🚀
+```
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=react-dark&bg_color=0D1117&hide_border=true&line=00E5FF&point=FFFFFF&area=true"/>
-</p>
-
-<p align="center">
-💙 <b>Building AI solutions one commit at a time.</b>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=github-dark&hide_border=true"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=basu0-1&style=for-the-badge&color=blue)
