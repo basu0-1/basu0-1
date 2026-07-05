@@ -10,11 +10,11 @@
 
 ## 🚀 Currently working on
 
-### CareerCompass AI
-AI-powered career guidance platform with ATS, Resume Analysis, Interview Preparation, and Job Recommendation.
+🛡️ **AEGIS-X**
+> AI-powered Smart Surveillance System
 
-### AEGIS-X
-Real-time AI surveillance and anomaly detection system.
+💼 **CareerCompass AI**
+> Resume Analyzer + ATS + Interview Coach
 
 ## 🛠️ Tech Stack
 
