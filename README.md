@@ -8,7 +8,7 @@
 - Computer Vision
 - Data Analytics
 
-## 🚀 Featured Projects
+## 🚀 Currently working on
 
 ### CareerCompass AI
 AI-powered career guidance platform with ATS, Resume Analysis, Interview Preparation, and Job Recommendation.
