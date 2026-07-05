@@ -29,23 +29,15 @@
 - MLOps
 - FastAPI
 
-<div align="center">
+<h2 align="center">⚡ Code Never Sleeps ⚡</h2>
 
-# 📊 Developer Dashboard
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=react-dark&bg_color=0D1117&hide_border=true&line=00E5FF&point=FFFFFF&area=true"/>
+</p>
 
-🎯 AI & Data Science Student • 🤖 Machine Learning • 🚀 Project Builder
-
----
-
-### 📈 Contribution Graph
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=tokyo-night&hide_border=true&area=true"/>
-
----
-
-> 💡 *Consistency beats intensity. Every commit is progress.*
-
-</div>
+<p align="center">
+💙 <b>Building AI solutions one commit at a time.</b>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=basu0-1&style=for-the-badge&color=blue)
 
