@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Basumati Pradhan
 
-<!--
-**basu0-1/basu0-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student
 
-Here are some ideas to get you started:
+💡 Passionate about
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+
+- CareerCompass AI
+- AEGIS-X
+- Portfolio Website
+
+## 🛠️ Tech Stack
+
+- Python
+- SQL
+- Power BI
+- C
+- C++
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## 📚 Currently Learning
+
+- Deep Learning
+- Generative AI
+- LLMs
+- MLOps
+- FastAPI
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Email
+
+⭐ "Building AI solutions for real-world problems."
