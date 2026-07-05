@@ -29,10 +29,16 @@
 - MLOps
 - FastAPI
 
-## 📈 My Contribution Journey
+<h1 align="center">
+⚡⚡ CONTRIBUTION HEATMAP ⚡⚡
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=tokyo-night&hide_border=true&radius=16"/>
+</p>
+
+<p align="center">
+✨ <b>From ideas to commits, every contribution tells a story.</b>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=basu0-1&style=for-the-badge&color=blue)
