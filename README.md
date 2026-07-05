@@ -17,18 +17,9 @@
 > Resume Analyzer + ATS + Interview Coach
 
 ## 🛠️ Tech Stack
-
-- Python
-- SQL
-- Power BI
-- C
-- C++
-- Java
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,mysql,git,github,vscode" />
+</p>
 
 ## 📚 Currently Learning
 
