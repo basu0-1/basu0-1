@@ -15,7 +15,7 @@
 - Portfolio Website
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basu0-1&show_icons=true&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Ybasu0-1&theme=tokyonight)
 ## 🛠️ Tech Stack
 
 - Python
