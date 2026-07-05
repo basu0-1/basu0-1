@@ -14,6 +14,8 @@
 - AEGIS-X
 - Portfolio Website
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basu0-1&show_icons=true&theme=tokyonight)
+
 ## 🛠️ Tech Stack
 
 - Python
