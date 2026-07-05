@@ -35,10 +35,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/basu0-1" width="90%"/>
-</p>
-
 ![](https://komarev.com/ghpvc/?username=basu0-1&style=for-the-badge&color=blue)
 
 ⭐ "Building AI solutions for real-world problems."
