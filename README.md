@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Basumati+Pradhan;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Building+Real-World+AI+Projects;Future+AI+Engineer" />
 </p>
-🎓 AI & Data Science Student
 
 💡 Passionate about
 - Artificial Intelligence
