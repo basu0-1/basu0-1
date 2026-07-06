@@ -37,10 +37,10 @@ Learning    : AI • ML • Computer Vision
 Building    : CareerCompass AI • AEGIS-X
 Commit Mode : ON 🚀
 ```
-<h2 align="center">📈 Contribution Journey</h2>
+<h2 align="center">📈 My Contribution Journey</h2>
 
 <p align="center">
-  <em>Building AI solutions, one commit at a time.</em>
+  <i>Every commit is another step toward building impactful AI solutions.</i>
 </p>
 
 <p align="center">
