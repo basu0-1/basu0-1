@@ -37,15 +37,10 @@ Learning    : AI • ML • Computer Vision
 Building    : CareerCompass AI • AEGIS-X
 Commit Mode : ON 🚀
 ```
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📅 Contribution Calendar</h2>
 
 <p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basu0-1&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basu0-1&theme=github_dark"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basu0-1&theme=github_dark"/>
+  <img src="https://ghchart.rshah.org/basu0-1" alt="GitHub Contribution Chart" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=basu0-1&style=for-the-badge&color=blue)
