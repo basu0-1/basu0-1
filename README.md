@@ -37,10 +37,7 @@ Learning    : AI • ML • Computer Vision
 Building    : CareerCompass AI • AEGIS-X
 Commit Mode : ON 🚀
 ```
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basu0-1&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basu0-1&theme=github_dark"/>
-</p>
+
 ![](https://komarev.com/ghpvc/?username=basu0-1&style=for-the-badge&color=blue)
 
 ⭐ "Building AI solutions for real-world problems."
