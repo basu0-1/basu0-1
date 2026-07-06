@@ -37,11 +37,7 @@ Learning    : AI • ML • Computer Vision
 Building    : CareerCompass AI • AEGIS-X
 Commit Mode : ON 🚀
 ```
-<h2 align="center">📅 Contribution Calendar</h2>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/basu0-1" alt="GitHub Contribution Chart" />
-</p>
+<img src="https://ghchart.rshah.org/58a6ff/basu0-1" />
 
 ![](https://komarev.com/ghpvc/?username=basu0-1&style=for-the-badge&color=blue)
 
