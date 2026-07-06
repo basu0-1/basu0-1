@@ -37,21 +37,15 @@ Learning    : AI • ML • Computer Vision
 Building    : CareerCompass AI • AEGIS-X
 Commit Mode : ON 🚀
 ```
-<h2 align="center">📈 My Contribution Journey</h2>
+<table align="center">
+<tr>
+<td align="center">
 
-<p align="center">
-  <i>Every commit is another step toward building impactful AI solutions.</i>
-</p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=github-dark&hide_border=true&area=true"/>
 
-<p align="center">
-  <a href="https://github.com/basu0-1">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=github-dark&hide_border=true&area=true"
-      width="95%"
-      alt="Contribution Graph"
-    />
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ![](https://komarev.com/ghpvc/?username=basu0-1&style=for-the-badge&color=blue)
 
