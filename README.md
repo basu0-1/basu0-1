@@ -37,10 +37,17 @@ Learning    : AI • ML • Computer Vision
 Building    : CareerCompass AI • AEGIS-X
 Commit Mode : ON 🚀
 ```
+<h2 align="center">📈 Contribution Journey</h2>
+
+<p align="center">
+  <em>Building AI solutions, one commit at a time.</em>
+</p>
+
 <p align="center">
   <a href="https://github.com/basu0-1">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=github-dark&hide_border=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=github-dark&hide_border=true&area=true"
+      width="95%"
       alt="Contribution Graph"
     />
   </a>
