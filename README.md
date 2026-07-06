@@ -38,7 +38,12 @@ Building    : CareerCompass AI • AEGIS-X
 Commit Mode : ON 🚀
 ```
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=github-dark&hide_border=true"/>
+  <a href="https://github.com/basu0-1">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=github-dark&hide_border=true"
+      alt="Contribution Graph"
+    />
+  </a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=basu0-1&style=for-the-badge&color=blue)
