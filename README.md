@@ -103,9 +103,7 @@ I'm passionate about building intelligent applications that solve real-world pro
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
+# 👀 Profile Views <p align="center">
 <img src="https://komarev.com/ghpvc/?username=basu0-1&style=for-the-badge&color=0E75B6"/>
 </p>
 
