@@ -81,22 +81,6 @@ I'm passionate about building intelligent applications that solve real-world pro
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basu0-1&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=basu0-1&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
 # 🌱 Currently Learning
 
 - 🧠 Deep Learning
@@ -119,43 +103,11 @@ I'm passionate about building intelligent applications that solve real-world pro
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/basumati-pradhan-82b994330/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:basumatipradhan06@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/basu0-1">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
 # 👀 Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=basu0-1&style=for-the-badge&color=0E75B6"/>
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-> **Enable GitHub Actions first, then uncomment this section.**
-
-```markdown
-<p align="center">
-<img src="https://raw.githubusercontent.com/basu0-1/basu0-1/output/github-contribution-grid-snake.svg"/>
-</p>
-```
 
 ---
 
