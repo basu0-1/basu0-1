@@ -113,11 +113,6 @@ I'm passionate about building intelligent applications that solve real-world pro
 <a href="https://fastapi.tiangolo.com/" target="_blank">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </a>
-
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -129,15 +124,6 @@ I'm passionate about building intelligent applications that solve real-world pro
 <a href="https://scikit-learn.org/stable/" target="_blank">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </a>
-
-<a href="https://www.tensorflow.org/learn" target="_blank">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a>
-
-<a href="https://pytorch.org/docs/stable/index.html" target="_blank">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -177,11 +163,6 @@ I'm passionate about building intelligent applications that solve real-world pro
 <a href="https://dev.mysql.com/doc/" target="_blank">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
-
-<a href="https://sqlite.org/docs.html" target="_blank">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -201,11 +182,6 @@ I'm passionate about building intelligent applications that solve real-world pro
 <a href="https://docs.github.com/" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://learning.postman.com/" target="_blank">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -217,11 +193,6 @@ I'm passionate about building intelligent applications that solve real-world pro
 <a href="https://docs.streamlit.io/" target="_blank">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
-
-<a href="https://docs.docker.com/" target="_blank">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</a>
-
 </p>
 
 ---
