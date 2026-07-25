@@ -13,14 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pac-Man
-        uses: abozanona/pacman-contribution-graph@main
+      - uses: actions/checkout@v4
+
+      - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: basu0-1
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
           publish_dir: ./
+          publish_branch: output
