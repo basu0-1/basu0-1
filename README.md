@@ -111,8 +111,6 @@ I'm passionate about building intelligent applications that solve real-world pro
 
 ---
 
-# 💬 Quote
-
 <p align="center">
 <i>"Turning data into intelligence and ideas into impactful AI solutions."</i> 🚀
 </p>
