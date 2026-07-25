@@ -81,6 +81,14 @@ I'm passionate about building intelligent applications that solve real-world pro
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basu0-1/basu0-1/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
 # 🌱 Currently Learning
 
 - 🧠 Deep Learning
