@@ -70,12 +70,6 @@ I'm passionate about building intelligent applications that solve real-world pro
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=basu0-1&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=basu0-1&theme=tokyonight&hide_border=true"/> </p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
