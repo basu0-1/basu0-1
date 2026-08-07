@@ -89,7 +89,11 @@ I'm passionate about building intelligent applications that solve real-world pro
 🎯 Exploring  : Open Source Contributions
 🚀 Goal       : Build AI Solutions with Real-World Impact
 ```
+<h2 align="center">🚀 GitHub Activity</h2>
 
+<p align="center">
+  <img src="./game.gif" width="850" alt="GitHub Space Shooter">
+</p>
 ---
 
 ## 👁️ Profile Views
