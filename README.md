@@ -94,7 +94,7 @@ I'm passionate about building intelligent applications that solve real-world pro
 <p align="center">
   <img src="./game.gif" width="850" alt="GitHub Space Shooter">
 </p>
----
+
 
 ## 👁️ Profile Views
 
