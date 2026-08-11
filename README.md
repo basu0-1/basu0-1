@@ -48,7 +48,6 @@ I'm passionate about building intelligent applications that solve real-world pro
 
 | Project | Description |
 |---|---|
-| 🛡️ **AEGIS-X** | AI-powered Smart Surveillance System using Computer Vision. |
 | 💼 **CareerCompass AI** | AI-powered Career Intelligence Platform — Resume Analysis, ATS Scoring, Skill Gap Detection, Interview Preparation, Salary Prediction, and Personalized Learning Roadmaps. |
 | 🎓 **EduShield AI** | Student Dropout Prediction & Early Warning System using Explainable Machine Learning. |
 | 🚦 **Road Accident Analysis Dashboard** | Interactive Power BI dashboard analyzing accident trends, severity, and risk factors using DAX and advanced data visualization. |
