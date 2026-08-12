@@ -29,29 +29,6 @@ I'm passionate about building intelligent applications that solve real-world pro
 - 💻 Building end-to-end AI-powered applications
 - 🌱 Continuously learning modern AI technologies
 - 🚀 Open to internships, hackathons, and open-source collaboration
-
----
-
-## 💡 Areas of Interest
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 👁️ Computer Vision
-- 📊 Data Analytics
-- 📈 Data Visualization
-- 🔍 Predictive Analytics
-- 💬 Generative AI
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| 💼 **CareerCompass AI** | AI-powered Career Intelligence Platform — Resume Analysis, ATS Scoring, Skill Gap Detection, Interview Preparation, Salary Prediction, and Personalized Learning Roadmaps. |
-| 🎓 **EduShield AI** | Student Dropout Prediction & Early Warning System using Explainable Machine Learning. |
-| 🚦 **Road Accident Analysis Dashboard** | Interactive Power BI dashboard analyzing accident trends, severity, and risk factors using DAX and advanced data visualization. |
-
 ---
 
 ## 🛠️ Tech Stack
@@ -68,26 +45,6 @@ I'm passionate about building intelligent applications that solve real-world pro
 | **Cloud & Deployment** | [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://docs.streamlit.io/) 
 
 ---
-
-## 🌱 Currently Learning
-
-- 🧠 Deep Learning
-- 🤖 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚙️ MLOps
-- 🚀 FastAPI
-- 🐳 Docker
-
----
-
-## ⚡ Current Focus
-
-```text
-💻 Building   : AI & Data Science Projects
-📚 Learning   : Deep Learning • LLMs • MLOps
-🎯 Exploring  : Open Source Contributions
-🚀 Goal       : Build AI Solutions with Real-World Impact
-```
 <h2 align="center">🚀 GitHub Activity</h2>
 
 <p align="center">
