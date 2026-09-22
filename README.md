@@ -17,9 +17,9 @@
 🎓 B.Tech Artificial Intelligence & Data Science @ **Arka Jain University**
 
 * 🤖 Interested in **AI, Machine Learning & Data Science**
-* 📊 Exploring **Data Analytics**
-* 💻 Building practical, real-world applications
-* 🚀 Open to **internships, hackathons & collaborations**
+* 📊 Exploring **Data Analytics & Visualization**
+* 💻 Building practical AI-powered applications
+* 🚀 Open to internships, hackathons & collaborations
 
 ---
 
@@ -34,26 +34,32 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-| Project                        | Description                                     | Tech                             |
-| ------------------------------ | ----------------------------------------------- | -------------------------------- |
-| 🛡️ **Women Safety Risk Zone** | ML-based risk prediction & safe-route analysis  | Python • ML • React • PostgreSQL |
-| 🌊 **ACT Dashboard**           | Flood alerts, risk analysis & accessible routes | React • Node.js • Maps           |
-| 📊 **QueryMart**               | Retail sales & warehouse intelligence           | Python • SQL • SQLite            |
-| 📈 **Education Dashboard**     | Student performance & dropout analytics         | Power BI                         |
+| Project                                | Focus                                          | Status      |
+| -------------------------------------- | ---------------------------------------------- | ----------- |
+| 🛡️ **EDUSHIELD AI**                   | AI-powered education & student support         | ✅ Completed |
+| 🧭 **CareerCompass AI**                | AI-based career guidance & recommendations     | 🚧 Working  |
+| ⚡ **AEGIS-X**                          | AI-powered intelligent decision-support system | 🚧 Working  |
 
 ---
 
 ### 🏆 Achievements
 
 * 🎓 **CGPA: 9.07** — B.Tech AI & Data Science
+* 🎓 **Cummins Scholar**
 * 🚀 **participated in hackathons**
-* 🤖 Built projects in **AI/ML, Data Analytics & Web Development**
+* 🤖 Developed projects across **AI/ML, Data Analytics & Web Development**
 
 ---
 
-### 📊 GitHub
+### 📚 Currently Learning
+
+`Machine Learning` • `Data Analytics`
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="./game.gif" width="700" alt="GitHub Activity">
