@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=170&section=header&text=BASUMATI%20PRADHAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=DATA%20SCIENTIST%20%E2%80%A2%20FUTURE%20IAS%20OFFICER&descSize=17&descAlignY=68" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=600&lines=Data+%7C+AI+%7C+Technology+%7C+Public+Service;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" />
