@@ -4,11 +4,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=600&lines=Data+%7C+AI+%7C+Technology+%7C+Public+Service;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" />
 
-<p>
-<a href="https://www.linkedin.com/in/basumati-pradhan-82b994330/">LinkedIn</a> •
-<a href="mailto:basumatipradhan06@gmail.com">Email</a> •
-<a href="https://github.com/basu0-1">GitHub</a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/basumati-pradhan-82b994330/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:basumatipradhan06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/basu0-1">
+  <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
 
 </div>
 
