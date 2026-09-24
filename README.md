@@ -1,262 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=DATA%20%7C%20TECHNOLOGY%20%7C%20PUBLIC%20SERVICE&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Basumati%20Pradhan%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Future%20IAS%20Officer&descAlignY=60&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=170&section=header&text=BASUMATI%20PRADHAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=DATA%20SCIENTIST%20%E2%80%A2%20FUTURE%20IAS%20OFFICER&descSize=17&descAlignY=68" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Turning+Technology+into+Impact+%F0%9F%92%A1;Learning+to+Solve+Real-World+Problems+%F0%9F%8C%8D;Aspiring+to+Serve+through+Technology+%F0%9F%87%AE%F0%9F%87%B3" />
-
-<br>
-
-### **Basumati Pradhan**
-
-`Data Scientist`  •  `AI & Data Science Student`  •  `Future IAS Officer`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=600&lines=Data+%7C+AI+%7C+Technology+%7C+Public+Service;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" />
 
 <p>
-<a href="https://www.linkedin.com/in/basumati-pradhan-82b994330/">LinkedIn</a>
-&nbsp; • &nbsp;
-<a href="mailto:basumatipradhan06@gmail.com">Email</a>
-&nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/basumati-pradhan-82b994330/">LinkedIn</a> •
+<a href="mailto:basumatipradhan06@gmail.com">Email</a> •
 <a href="https://github.com/basu0-1">GitHub</a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=basu0-1&style=flat-square&label=Profile+Visitors" />
 
 </div>
 
 ---
 
-## 🌐 A Little About Me
-
-<table>
+<table align="center">
 <tr>
-<td width="60%">
-
-🎓 **B.Tech Artificial Intelligence & Data Science**
-🏫 Arka Jain University
-
-I am passionate about using **data, technology and intelligent systems** to understand problems and create meaningful solutions.
-
-My long-term vision lies at the intersection of:
-
-**Technology × Data × Governance × Public Service**
-
-Currently, I am building my foundation in **Data Science, AI, Machine Learning and Software Development**, while working towards my larger goal of contributing to society through **public administration and technology-driven governance**.
-
-</td>
-
-<td width="40%" align="center">
-
-### 🧭 My Direction
-
-```text
-       LEARN
-         ↓
-       BUILD
-         ↓
-      ANALYZE
-         ↓
-      UNDERSTAND
-         ↓
-       SERVE
-         ↓
-       IMPACT
-```
-
-🇮🇳
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧩 Two Sides. One Purpose.
-
-<table>
-<tr>
-
 <td align="center" width="50%">
 
 ### 🔬 DATA SCIENCE
 
-`Python`
-`Machine Learning`
-`Data Analytics`
-`AI / GenAI`
-`Problem Solving`
-`Technology`
+`Python` • `ML` • `AI`
+`Data Analytics` • `SQL`
+`GenAI` • `Problem Solving`
 
 </td>
 
 <td align="center" width="50%">
 
-### 🏛️ PUBLIC SERVICE
+### 🇮🇳 PUBLIC SERVICE
 
-`Governance`
-`Public Administration`
-`Policy`
-`Social Impact`
-`Decision Making`
-`Nation Building 🇮🇳`
+`Governance` • `Policy`
+`Administration` • `Social Impact`
+`Technology for Good`
 
 </td>
-
 </tr>
 </table>
 
 <div align="center">
 
-### **The connection?**
+### 🎓 B.Tech AI & Data Science @ Arka Jain University
 
-**Better Data → Better Decisions → Better Systems → Better Impact**
+**My direction:** `Data → Intelligence → Decisions → Impact`
 
 </div>
 
 ---
 
-## 🛠️ My Technical Toolkit
+<div align="center">
+
+### 📊 GitHub Activity
+
+<img src="https://raw.githubusercontent.com/basu0-1/basu0-1/output/github-contribution-grid-snake.svg" width="85%" alt="GitHub contributions"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=basu0-1&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="46%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=basu0-1&hide_border=true&theme=transparent" width="46%"/>
+
+</div>
+
+---
 
 <div align="center">
 
-### Languages
+> **“Learn to understand. Build to solve. Serve to create impact.”**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
-
-<br><br>
-
-### Data • AI • ML
-
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
+`🤖 AI`   `📊 Data`   `💻 Technology`   `🇮🇳 Public Service`
 
 <br>
 
-`Pandas` • `NumPy` • `Matplotlib` • `Plotly` • `Power BI` • `SQL`
-
-<br><br>
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,fastapi,mysql,sqlite,git,github,vscode" />
+<sub>🌱 Currently learning • continuously improving • building with purpose</sub>
 
 </div>
 
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-| Focus | What I'm Exploring           |
-| :---: | ---------------------------- |
-|   🤖  | **Machine Learning**         |
-|   📊  | **Data Science & Analytics** |
-|   🧠  | **Generative AI**            |
-|   💻  | **Full-Stack Development**   |
-|  🏛️  | **Technology & Governance**  |
-|   🧩  | **Problem Solving**          |
-
-</div>
-
----
-
-## 🧠 My Learning Philosophy
-
-<div align="center">
-
-> **"Don't learn just to know.
-> Learn to understand.
-> Understand to solve.
-> Solve to create impact."**
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/basu0-1/basu0-1/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub contribution activity" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=basu0-1&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=basu0-1&hide_border=true&theme=transparent" width="48%" />
-
-</div>
-
----
-
-## ⚡ Beyond the Code
-
-<table>
-<tr>
-<td align="center">🎵<br><b>Singing</b></td>
-<td align="center">🎨<br><b>Painting</b></td>
-<td align="center">🧠<br><b>Learning</b></td>
-<td align="center">💡<br><b>Problem Solving</b></td>
-<td align="center">🇮🇳<br><b>Public Service</b></td>
-</tr>
-</table>
-
----
-
-## 🎯 The Bigger Picture
-
-<div align="center">
-
-```text
-                 ┌──────────────────┐
-                 │    DATA SCIENCE  │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │    TECHNOLOGY    │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │    GOVERNANCE   │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │   PUBLIC IMPACT  │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 🇮🇳  FUTURE IAS  🇮🇳
-```
-
-</div>
-
----
-
-## 💬 A Thought I Believe In
-
-<div align="center">
-
-> ### *"Technology is powerful.*
->
-> ### *But its greatest value lies in how we use it to improve people's lives."*
-
-</div>
-
----
-
-<div align="center">
-
-### 🌱 Learning today. Building tomorrow. Serving with purpose.
-
-<br>
-
-`Data` • `Intelligence` • `Technology` • `Governance` • `Impact`
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=80&section=footer" width="100%"/>
